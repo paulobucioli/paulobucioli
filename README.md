@@ -1,4 +1,4 @@
-## _Meu nome é Paulo Roberto Bucioli_
+## #Meu nome é Paulo Roberto Bucioli#
 ## Estou estudando na Alura
 ## Estou me desenvolvendo na linguagem JavaScript
 ## Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
